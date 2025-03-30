@@ -1,0 +1,7 @@
+C:\Users\mamin\source\repos\اختلاف سن\اختلاف سن\bin\Debug\اختلاف سن.exe.config
+C:\Users\mamin\source\repos\اختلاف سن\اختلاف سن\bin\Debug\اختلاف سن.exe
+C:\Users\mamin\source\repos\اختلاف سن\اختلاف سن\bin\Debug\اختلاف سن.pdb
+C:\Users\mamin\source\repos\اختلاف سن\اختلاف سن\obj\Debug\اختلاف سن.csprojAssemblyReference.cache
+C:\Users\mamin\source\repos\اختلاف سن\اختلاف سن\obj\Debug\اختلاف سن.csproj.CoreCompileInputs.cache
+C:\Users\mamin\source\repos\اختلاف سن\اختلاف سن\obj\Debug\اختلاف سن.exe
+C:\Users\mamin\source\repos\اختلاف سن\اختلاف سن\obj\Debug\اختلاف سن.pdb
