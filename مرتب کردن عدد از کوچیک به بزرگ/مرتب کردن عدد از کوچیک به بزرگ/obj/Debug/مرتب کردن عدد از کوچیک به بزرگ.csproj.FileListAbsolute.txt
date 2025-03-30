@@ -1,0 +1,7 @@
+C:\Users\mamin\source\repos\مرتب کردن عدد از کوچیک به بزرگ\مرتب کردن عدد از کوچیک به بزرگ\bin\Debug\مرتب کردن عدد از کوچیک به بزرگ.exe.config
+C:\Users\mamin\source\repos\مرتب کردن عدد از کوچیک به بزرگ\مرتب کردن عدد از کوچیک به بزرگ\bin\Debug\مرتب کردن عدد از کوچیک به بزرگ.exe
+C:\Users\mamin\source\repos\مرتب کردن عدد از کوچیک به بزرگ\مرتب کردن عدد از کوچیک به بزرگ\bin\Debug\مرتب کردن عدد از کوچیک به بزرگ.pdb
+C:\Users\mamin\source\repos\مرتب کردن عدد از کوچیک به بزرگ\مرتب کردن عدد از کوچیک به بزرگ\obj\Debug\مرتب کردن عدد از کوچیک به بزرگ.csprojAssemblyReference.cache
+C:\Users\mamin\source\repos\مرتب کردن عدد از کوچیک به بزرگ\مرتب کردن عدد از کوچیک به بزرگ\obj\Debug\مرتب کردن عدد از کوچیک به بزرگ.csproj.CoreCompileInputs.cache
+C:\Users\mamin\source\repos\مرتب کردن عدد از کوچیک به بزرگ\مرتب کردن عدد از کوچیک به بزرگ\obj\Debug\مرتب کردن عدد از کوچیک به بزرگ.exe
+C:\Users\mamin\source\repos\مرتب کردن عدد از کوچیک به بزرگ\مرتب کردن عدد از کوچیک به بزرگ\obj\Debug\مرتب کردن عدد از کوچیک به بزرگ.pdb
