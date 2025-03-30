@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1231
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "تست تساعد حسابی سه عدد", "تست تساعد حسابی سه عدد\تست تساعد حسابی سه عدد.csproj", "{A54567D3-0E1D-4BD1-A0DD-947F454D831E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A54567D3-0E1D-4BD1-A0DD-947F454D831E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A54567D3-0E1D-4BD1-A0DD-947F454D831E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A54567D3-0E1D-4BD1-A0DD-947F454D831E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A54567D3-0E1D-4BD1-A0DD-947F454D831E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {08E44EAC-37EB-4663-92AF-CCB4D57BE20E}
+	EndGlobalSection
+EndGlobal

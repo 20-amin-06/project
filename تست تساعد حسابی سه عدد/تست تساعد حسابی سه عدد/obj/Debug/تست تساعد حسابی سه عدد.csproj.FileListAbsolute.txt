@@ -1,0 +1,6 @@
+C:\Users\mamin\source\repos\تست تساعد حسابی سه عدد\تست تساعد حسابی سه عدد\bin\Debug\تست تساعد حسابی سه عدد.exe.config
+C:\Users\mamin\source\repos\تست تساعد حسابی سه عدد\تست تساعد حسابی سه عدد\bin\Debug\تست تساعد حسابی سه عدد.exe
+C:\Users\mamin\source\repos\تست تساعد حسابی سه عدد\تست تساعد حسابی سه عدد\bin\Debug\تست تساعد حسابی سه عدد.pdb
+C:\Users\mamin\source\repos\تست تساعد حسابی سه عدد\تست تساعد حسابی سه عدد\obj\Debug\تست تساعد حسابی سه عدد.csproj.CoreCompileInputs.cache
+C:\Users\mamin\source\repos\تست تساعد حسابی سه عدد\تست تساعد حسابی سه عدد\obj\Debug\تست تساعد حسابی سه عدد.exe
+C:\Users\mamin\source\repos\تست تساعد حسابی سه عدد\تست تساعد حسابی سه عدد\obj\Debug\تست تساعد حسابی سه عدد.pdb
