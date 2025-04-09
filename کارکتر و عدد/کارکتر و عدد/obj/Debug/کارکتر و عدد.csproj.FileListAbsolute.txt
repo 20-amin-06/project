@@ -1,0 +1,7 @@
+C:\Users\mamin\source\repos\کارکتر و عدد\کارکتر و عدد\obj\Debug\کارکتر و عدد.csprojAssemblyReference.cache
+C:\Users\mamin\source\repos\کارکتر و عدد\کارکتر و عدد\obj\Debug\کارکتر و عدد.csproj.CoreCompileInputs.cache
+C:\Users\mamin\source\repos\کارکتر و عدد\کارکتر و عدد\bin\Debug\کارکتر و عدد.exe.config
+C:\Users\mamin\source\repos\کارکتر و عدد\کارکتر و عدد\bin\Debug\کارکتر و عدد.exe
+C:\Users\mamin\source\repos\کارکتر و عدد\کارکتر و عدد\bin\Debug\کارکتر و عدد.pdb
+C:\Users\mamin\source\repos\کارکتر و عدد\کارکتر و عدد\obj\Debug\کارکتر و عدد.exe
+C:\Users\mamin\source\repos\کارکتر و عدد\کارکتر و عدد\obj\Debug\کارکتر و عدد.pdb
