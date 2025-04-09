@@ -1,0 +1,7 @@
+C:\Users\mamin\source\repos\مضرب 5\مضرب 5\obj\Debug\مضرب 5.csprojAssemblyReference.cache
+C:\Users\mamin\source\repos\مضرب 5\مضرب 5\obj\Debug\مضرب 5.csproj.CoreCompileInputs.cache
+C:\Users\mamin\source\repos\مضرب 5\مضرب 5\bin\Debug\مضرب 5.exe.config
+C:\Users\mamin\source\repos\مضرب 5\مضرب 5\bin\Debug\مضرب 5.exe
+C:\Users\mamin\source\repos\مضرب 5\مضرب 5\bin\Debug\مضرب 5.pdb
+C:\Users\mamin\source\repos\مضرب 5\مضرب 5\obj\Debug\مضرب 5.exe
+C:\Users\mamin\source\repos\مضرب 5\مضرب 5\obj\Debug\مضرب 5.pdb
